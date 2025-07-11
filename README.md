@@ -17,7 +17,7 @@ A Go package for generating PDF documents from HTML content using Chrome/Chromiu
 ## Installation
 
 ```bash
-go get github.com/your-username/htmlgopdf
+go get github.com/MateoCaicedoW/htmlgopdf
 ```
 
 ## Requirements
@@ -201,7 +201,7 @@ package main
 import (
     "fmt"
     "os"
-    "github.com/your-username/htmlgopdf"
+    "github.com/MateoCaicedoW/htmlgopdf"
 )
 
 func main() {
@@ -247,7 +247,7 @@ package main
 
 import (
     "time"
-    "github.com/your-username/htmlgopdf"
+    "github.com/MateoCaicedoW/htmlgopdf"
 )
 
 func main() {
@@ -277,7 +277,7 @@ package main
 
 import (
     "time"
-    "github.com/your-username/htmlgopdf"
+    "github.com/MateoCaicedoW/htmlgopdf"
 )
 
 func main() {
