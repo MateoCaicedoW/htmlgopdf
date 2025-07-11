@@ -445,10 +445,6 @@ For better PDF output, consider using CSS print styles:
 
 - [chromedp](https://github.com/chromedp/chromedp) - Chrome DevTools Protocol client
 
-## License
-
-MIT License
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
